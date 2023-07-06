@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 MUUTETTU__UUDELLEEN, että päähaarasta erotetaan uuden toiminnallisuuden testaamiseksi toinen haara, jossa koodataan lisäominaisuuksia. Haarat eivät 
+=======
+MUUTETTU____PAREMMMIN, että päähaarasta erotetaan uuden toiminnallisuuden testaamiseksi toinen haara, jossa koodataan lisäominaisuuksia. Haarat eivät 
+>>>>>>> Stashed changes
 vaikuta toistensa tiloihin, eli uudella koodilla voidaan leikkiä huolimatta päähaarasta. 
 Kun ollaan todettu uusi koodi toimivaksi, voidaan se lisätä päähaaraan, ja poistaa uusi haara. 
 Tässä osassa ei käsitellä haaroja sen enempää: riittää ymmärtää, että käytämme nyt vain main-, eli päähaaraa.
