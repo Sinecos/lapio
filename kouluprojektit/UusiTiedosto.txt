@@ -1,0 +1,4 @@
+Tama on testi:
+
+git fetch
+git pull
