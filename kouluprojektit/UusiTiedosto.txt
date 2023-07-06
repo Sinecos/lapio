@@ -1,4 +1,4 @@
-Tama on testi:
+Muutetaan:
 
 git fetch
 git pull
